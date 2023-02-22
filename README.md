@@ -19,10 +19,13 @@ $ python pacman.py -h
 
 ## Search
 Implement depth-first, breadth-first, uniform cost, and A* search algorithms. 
-
+[Link document](https://goo.gl/XAVtp7) 
 
 ##  Multi-Agent
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. Implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
+[Link document](https://goo.gl/3iA5bT) 
+
 ## Reinforcement Learning
 Implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
-
+[Link document](https://goo.gl/3iA5bT) 
+http://ai.berkeley.edu/reinforcement.html
